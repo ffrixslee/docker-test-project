@@ -1,0 +1,13 @@
+{
+  "name": "docker-test-project",
+  "version": "1.0.0",
+  "description": "Simple Node.js service with basic auth and secret route",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
